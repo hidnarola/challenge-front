@@ -1,0 +1,55 @@
+
+    .tbl-section{
+        margin-top: 111px;
+        .grid_box{
+            width: 89%;
+            margin-left: 69px;
+            .btn-box{
+                width: 100%;
+                .btn-size{
+                    &.btn-add {
+                        margin-right:16px;
+                    }
+                    height: 45px;
+                    width: 18%;
+                }
+
+            }
+         
+            .row{
+                text-transform: capitalize;
+                cursor: pointer;
+            }
+        }
+        
+    }
+
+.Book-form{
+    width: 100%;
+    margin-top: 9%;
+    margin-left: 84px;
+    .btn-add{
+        margin-right:16px;
+    }
+    .form-control{
+        width: 50%;
+    }
+    .MuiTextField-root{
+            width: 50%;
+    }
+}
+
+.author-form{
+    width: 100%;
+    margin-top: 9%;
+    margin-left: 84px;
+   .btn-add{
+        margin-right:16px;
+    }
+    .form-control{
+        width: 50%;
+    }
+    .MuiTextField-root{
+            width: 50%;
+    }
+}
